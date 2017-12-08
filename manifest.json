@@ -1,0 +1,17 @@
+{
+  "name": "desafio-vps-n1",
+  "vendor": "agencian1",
+  "version": "0.1.0",
+  "title": "Desafio VPS N1",
+  "description": "Desafio VPS Agencia N1",
+  "mustUpdateAt": "2018-12-07",
+  "categories": [],
+  "registries": [
+    "smartcheckout"
+  ],
+  "settingsSchema": {},
+  "dependencies": {},
+  "builders": {
+    "react": "0.x"
+  }
+}

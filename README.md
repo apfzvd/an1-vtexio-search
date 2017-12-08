@@ -1,2 +1,3 @@
-# an1-vtexio-search
-A simple test component that searches for products based on a string
+# README #
+
+This README would normally document whatever steps are necessary to get your application up and running.

@@ -1,0 +1,10 @@
+{
+  "extensions": {
+    "index": {
+      "component": "./index.js",
+      "route": {
+        "path": "/index"
+      }
+    }
+  }
+}
